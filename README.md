@@ -13,3 +13,6 @@ Yo!
 ## Release
 
 Spin!
+
+### Copyright Notice 
+Adding the damn copywright notice
